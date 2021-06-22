@@ -37,7 +37,9 @@ background-color: #19A1AD;
     border-radius: 50%;
     
 }
-
+.img1{
+    border-radius: 15px 15px 0px 0px;
+} 
 .imgvictor{
     width: 80px;
     height: 80px;
@@ -124,7 +126,7 @@ hr{
 
 
 /*index1.html css starts here */
-.card{
+/* .card{
 
     position: absolute;
     border: 2px black;
@@ -133,7 +135,7 @@ hr{
     background: white;
     border-radius: 15px;
     
-}
+} */
 /* .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     max-width: 360px;
@@ -143,23 +145,21 @@ hr{
     left: 40%;
     position: fixed;
   } */
-  .card .card-body{
+  /* .card .card-body{
       position: relative;
   }
   .img-responsive{
      transform: translate(113px,100px);
      border-radius: 50%;
      padding-top: 0%;
-  }
-  .img1{
-      border-radius: 15px 15px 0px 0px;
-  } 
-  .img2{
+  }*/
+  
+  /*.img2{
       width: 80px;
       height: 80px;
       border-radius: 50%;
       transform: translate(120px,-53px);
-  }
+  } */
   
   
   @media only screen and (min-width:200px) and (max-width:750px){
